@@ -1,1 +1,18 @@
+/*
+ <div class="contenedor">
+    <div class="item item-1">1</div>
+*/
+
+.contenedor{
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.item{
+  width: 400px;
+  height: 300px;
+}
+
 
